@@ -1,6 +1,4 @@
-# 🌳 PRODIGY_DS_03: Decision Tree Classifier
-
-This repository contains my submission for **Task 03** of the Prodigy InfoTech Data Science Internship.
+# 🌳 Decision Tree Classifier
 
 ## 📄 Project Overview
 **Objective:** Build a Decision Tree Classifier to predict whether a customer will purchase a product or service.
